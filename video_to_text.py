@@ -2,7 +2,7 @@ import whisper
 
 model = whisper.load_model("base")
 
-result = model.transcribe(r"C:\Users\acer\Desktop\video23.mp4")
+result = model.transcribe("Enter video file path: ")
 
 text = result["text"]
 
