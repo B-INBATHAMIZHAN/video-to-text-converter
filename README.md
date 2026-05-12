@@ -28,7 +28,7 @@ pip install -r requirements.txt
 2. Run the script:
 
 ```bash
-python v.py
+python video_to_text.py
 ```
 
 ## Future Improvements
