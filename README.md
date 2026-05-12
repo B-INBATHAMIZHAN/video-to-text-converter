@@ -1,5 +1,3 @@
-# video-to-text-converter
-AI-powered offline video-to-text converter using Python and Whisper AI for speech transcription.
 # AI Video-to-Text Converter
 
 An offline AI-powered video-to-text converter built using Python and OpenAI Whisper.
